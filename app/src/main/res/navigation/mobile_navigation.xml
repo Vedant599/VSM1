@@ -30,14 +30,29 @@
         tools:layout="@layout/fragment_profit" />
 
     <fragment
-        android:id="@+id/nav_share"
+        android:id="@+id/round2"
         android:name="com.example.vsm1.ui.share.ShareFragment"
         android:label="@string/menu_share"
         tools:layout="@layout/fragment_round2" />
 
     <fragment
-        android:id="@+id/nav_send"
+        android:id="@+id/round1"
         android:name="com.example.vsm1.ui.send.SendFragment"
         android:label="@string/menu_send"
         tools:layout="@layout/fragment_round1" />
+    <fragment
+        android:id="@+id/round3"
+        android:name="com.example.vsm1.ui.send.SendFragment"
+        android:label="@string/menu_send"
+        tools:layout="@layout/fragment_round3" />
+    <fragment
+        android:id="@+id/round4"
+        android:name="com.example.vsm1.ui.send.SendFragment"
+        android:label="@string/menu_send"
+        tools:layout="@layout/fragment_round4" />
+    <fragment
+        android:id="@+id/round5"
+        android:name="com.example.vsm1.ui.send.SendFragment"
+        android:label="@string/menu_send"
+        tools:layout="@layout/fragment_round5" />
 </navigation>
