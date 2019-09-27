@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VSM1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">News</string>
+    <string name="menu_gallery">Shares</string>
+    <string name="menu_slideshow">Ledger</string>
+    <string name="menu_tools">Profit</string>
+    <string name="menu_round1">Round1</string>
+    <string name="menu_round2">Round2</string>
+    <string name="menu_round3">Round3</string>
+    <string name="menu_round4">Round4</string>
+    <string name="menu_round5">Round5</string>
+    <string name="menu_share">Share Menu</string>
+    <string name="menu_send">Send Menu</string>
+</resources>
